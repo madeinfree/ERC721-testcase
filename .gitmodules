@@ -4,3 +4,6 @@
 [submodule "lib/ERC721Psi"]
 	path = lib/ERC721Psi
 	url = https://github.com/estarriolvetch/ERC721Psi
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/Openzeppelin/openzeppelin-contracts
